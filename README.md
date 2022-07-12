@@ -1,5 +1,6 @@
 ### Hi there 👋
-WE HAWT! This is Longji Yin, currently a RA at ZJU FAST-Lab. Prev to this, M.S. in Robotics at JHU and B.E. in Automation at ZJU.  📫 How to reach me: ljyin6038@163.com.
+WE HAWT! This is Longji Yin, currently a RA at ZJU FAST-Lab. Prev to this, M.S. in Robotics at JHU and B.E. in Automation at ZJU.  
+📫 How to reach me: ljyin6038@163.com / ljyin@connect.hku.hk 
 
 <!--
 **YLJ6038/YLJ6038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
