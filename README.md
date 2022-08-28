@@ -1,7 +1,7 @@
 ### Hi there 👋
 WE HAWT! This is Longji Yin, currently a PhD student at HKU Mars-Lab.
-Prev to this, I worked as a RA at ZJU FAST-Lab in 2021-2022. 
-I received my M.S. degree in Robotics at JHU in 2021 and B.E. degree in Automation at ZJU in 2019.  
+Prev to this, I worked as a RA at ZJU FAST-Lab in 2021-2022.  
+I received my M.S. degree in Robotics from JHU in 2021 and B.E. degree in Automation from ZJU in 2019.  
 📫 How to reach me: ljyin@connect.hku.hk / ljyin6038@163.com 
 
 <!--
